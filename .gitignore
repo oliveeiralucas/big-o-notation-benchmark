@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Benchmark data and generated plots
+benchmark.json
+complexity.png
+
+# TypeScript cache file
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS metadata
+.DS_Store
+
+# Environment variables
+.env
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
